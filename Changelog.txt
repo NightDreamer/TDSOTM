@@ -1,0 +1,9 @@
+v1.1
+- increased speed
+- added visual feedback when the player/enemy was hit
+- added fullscreen toggle by pressing [F12]
+- added icon
+- added help screen at beginning
+- fixed resolution bug for screens, which doesn't natively support 1280x720
+- revamp some screens
+- revamp some game mechanics
